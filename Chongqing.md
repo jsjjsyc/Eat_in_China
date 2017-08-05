@@ -3,7 +3,7 @@
 
 ## 交通
 ### 地图
-[![](images/chongqing.png)](https://www.google.cn/maps/d/viewer?mid=1-TVVSX0StsNplwytMTFGIEJS3fk&ll=29.638131030991175%2C106.54682509999998&z=12)
+[![](images/chongqing.png)](http://j.map.baidu.com/p2uiL)
 ### 往返程
 出发时间 | 出发地 | 抵达时间 | 目的地 | 备注
 ---- | --- | --- | --- | ---
@@ -47,3 +47,15 @@
 [板凳面庄](http://j.map.baidu.com/vHkdC)
 
 [南山泉水鸡一条街](http://j.map.baidu.com/SFtkC)
+
+## Check List
+- [ ] 火锅
+- [ ] 小面
+- [ ] 酸辣粉
+- [ ] 红油抄手
+- [ ] 小汤圆
+- [ ] 陈麻花
+- [ ] 豆花
+- [ ] 烤脑花
+- [ ] 糍粑
+- [ ] 泉水鸡
